@@ -10,6 +10,9 @@ import Form from './components/Form/Form';
 import Nav from './components/Nav/Nav';
 import Favorites from './components/Favorites/Favorites';
 
+// ! no esta terminado porque se me rompio la notebook y no hice el push por ende perdi el progreso y no pude reacerlo 
+
+
 function App() {
   const navigate = useNavigate();
   const { pathname } = useLocation();
